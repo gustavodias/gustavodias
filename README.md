@@ -4,6 +4,8 @@ Me chamo Gustavo Emerson F. Dias, sou desenvolvedor Java e iniciei na área da p
 
 No meu tempo livre, procuro aprender coisas novas: aprendo um pouco sobre Maven, Swagger e novidades do mundo Java! Também outras coisas além do profissonal como: aprender Photoshop, treinar o meu inglês. 📚
 
+##
+
 <div align="center">
   <a href="https://github.com/gustavodias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
