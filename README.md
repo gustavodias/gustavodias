@@ -1,8 +1,10 @@
-Olá ✌🏻
+Olá, me chamo Gustavo Emerson ✌🏻
 
-Me chamo Gustavo Emerson F. Dias, sou desenvolvedor Java e iniciei na área da programação com apenas 15 anos 🙋🏻‍♂️. Venho me dedicando em aprimorar meus conhecimentos como Dev Java, aprendendo principais Bibliotecas e Arquiteturas utilizadas!
+Na adolescência, tive o primeiro contato com a área de programação aos 14 anos e desde então sempre procurei me aprimorar no desenvolvimento Back-End. Dessa forma, me concentrei em aprender as principais arquiteturas, bibliotecas e boas práticas de programação.
 
-No meu tempo livre, procuro aprender coisas novas: aprendo um pouco sobre Boas praticas, Docker, Maven, Swagger e novidades do mundo Java! Também outras coisas além do profissional como: aprender Photoshop e principalmente treinar o meu inglês. 📚
+Sou um Dev, que procuro criar um código organizado para facilitar a manutenção e o entendimento.📚
+
+Atualmente, sou militar do Exército Brasileiro, atuando na sessão de Tecnologia da Informação como Desenvolvedor de Software do Hospital Militar de Área de Recife.🔰
 
 ##
 
