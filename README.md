@@ -4,7 +4,7 @@ Na adolescência, tive o primeiro contato com a área de programação aos 14 an
 
 Sou um Dev, que procuro criar um código organizado para facilitar a manutenção e o entendimento.📚
 
-Atualmente, sou militar do Exército Brasileiro, atuando na sessão de Tecnologia da Informação como Desenvolvedor de Software do Hospital Militar de Área de Recife.🔰
+Atualmente, sou Desenvolvedor Java pela Meta e prestando serviço para a Rede Globo.
 
 ##
 
