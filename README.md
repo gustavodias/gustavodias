@@ -1,10 +1,8 @@
 Olá, me chamo Gustavo Emerson ✌🏻
 
-Na adolescência, tive o primeiro contato com a área de programação aos 14 anos e desde então sempre procurei me aprimorar no desenvolvimento Back-End. Dessa forma, me concentrei em aprender as principais arquiteturas, bibliotecas e boas práticas de programação.
-
 Sou um Dev, que procuro criar um código organizado para facilitar a manutenção e o entendimento.📚
 
-Atualmente, sou Desenvolvedor Java pela Meta e prestando serviço para a Rede Globo.
+Atualmente, sou Desenvolvedor Java pela Meta e prestando serviços para a Rede Globo.
 
 ##
 
