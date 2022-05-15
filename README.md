@@ -1,4 +1,4 @@
-Olá, me chamo Gustavo Emerson ✌🏻
+Olá, me chamo Gustavo Dias ✌🏻
 
 Sou um Dev, que procuro criar um código organizado para facilitar a manutenção e o entendimento.📚
 
