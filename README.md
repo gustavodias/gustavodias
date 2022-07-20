@@ -2,7 +2,7 @@ Olá, me chamo Gustavo Dias ✌🏻
 
 Sou um Dev, que procuro criar um código organizado para facilitar a manutenção e o entendimento.📚
 
-Atualmente, sou Desenvolvedor Java pela Meta e prestando serviços para a Rede Globo.
+Atualmente, sou Desenvolvedor Java pela Meta e prestando serviços para a PROCERGS.
 
 ##
 
